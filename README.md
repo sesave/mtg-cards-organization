@@ -1,19 +1,20 @@
-# mtg-cards-organization
+# MTG Cards Organization
+
 Website to search magic the gathering cards and save them in a database to collection organization and/or list them to sell 
 the cards.
 
-Technologies:
+## Technologies:
 - React Typescript
 - Vite
 
-Libraries:
+## Libraries:
 - Scryfall
 - Material UI
 - UseHooks
 
 [Documentation of Scryfall SDK](https://github.com/ChiriVulpes/scryfall-sdk/blob/main/DOCUMENTATION.md)
 
-Pending:
+### Pending:
 - Backend Integration
 - Backend to save your cards
 - Login when you want to save cards

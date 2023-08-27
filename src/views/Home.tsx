@@ -1,7 +1,13 @@
+import CardsResults from "../components/CardsResults";
 import SearchCards from "../components/SearchCards";
 
 const Home = () => {
-  return <SearchCards />;
+  return (
+    <>
+      <SearchCards />
+      <CardsResults />
+    </>
+  );
 };
 
 export default Home;
